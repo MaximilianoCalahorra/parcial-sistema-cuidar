@@ -1,6 +1,6 @@
 # Descripción del programa
 
-Consiste en mi resolución del parcial de la materia de Orientación a Objetos II de la carrera de Sistemas de la UNLa.
+Consiste en mi resolución a un parcial viejo de la materia de Orientación a Objetos II de la carrera de Sistemas de la UNLa.
 
 Está desarrollado completamente en Java mediante el paradigma de la POO, aplicando conceptos tales como clases, atributos, métodos, polimorfismo, reutilización de código, manejo de excepciones y de fechas y horas, herencia y clases abstractas, y con aplicación y manejo de la persistencia mediante el uso de Hibernate.
 
